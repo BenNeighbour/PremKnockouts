@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+
+.logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+.site-layout-sub-header-background {
+  background: #fff;
+}
+
+.site-page-header {
+  border: 1px solid rgb(235, 237, 240);
+  background: #fff;
+}.site-layout-background {
+  background: #fff;
+}

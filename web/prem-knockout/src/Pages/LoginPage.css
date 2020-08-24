@@ -1,0 +1,14 @@
+.login-form {
+  text-align: center;
+  max-width: 550px;
+  margin: 0 auto;
+  top: 50%;
+  -ms-transform: translateY(80%);
+  transform: translateY(80%);
+}
+.login-form .login-form-forgot {
+  float: left;
+}
+.login-form .login-form-button {
+  width: 100%;
+}
